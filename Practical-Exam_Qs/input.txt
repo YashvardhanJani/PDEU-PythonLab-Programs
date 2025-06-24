@@ -1,0 +1,10 @@
+Total10
+float
+a
+9.80
+boolean
+55
+sum_5
+b5
+6.45
+list
