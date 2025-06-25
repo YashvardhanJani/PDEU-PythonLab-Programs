@@ -24,7 +24,7 @@ This repository contains Python programs as part of the **Python 🐍 Course**.
 | LabDay06   | Tuple related Programs        | 🔗[View](./LabDay06) |
 | LabDay07   | Dictionary related Programs   | 🔗[View](./LabDay07) |
 | LabDay08   | Set related Programs          | 🔗[View](./LabDay08) |
-| LabDay09   | Function & Recusion related Programs | 🔗[View](./LabDay09) |
+| LabDay09   | Function & Recursion related Programs | 🔗[View](./LabDay09) |
 | LabDay10   | File Handling related Programs | 🔗[View](./LabDay10) |
 | LabDay11   | Exception Handling related Programs | 🔗[View](./LabDay11) |
 | LabDay12   | Classes & Objects related Programs | 🔗[View](./LabDay12) |
