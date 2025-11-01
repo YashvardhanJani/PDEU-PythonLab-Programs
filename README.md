@@ -6,6 +6,7 @@
 
 - **Name:** Yashvardhan Jani 
 - **Branch:** Computer Science & Engineering (CSE)  
+- **College:** Pandit Deendayal Energy University, Gandhinagar
 
 ## 🎓 Instructors (Professors)
 - **Dr. Samir Patel**  
